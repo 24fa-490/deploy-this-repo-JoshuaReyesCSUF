@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+https://deploy-this-repo-joshua-reyes-csuf-6fr4vrosz.vercel.app/
 
 
