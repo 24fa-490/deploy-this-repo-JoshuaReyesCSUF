@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-joshua-reyes-csuf-6fr4vrosz.vercel.app/
+https://deploy-this-repo-joshua-re-git-b8a35a-joshuareyescsufs-projects.vercel.app/
 
 
